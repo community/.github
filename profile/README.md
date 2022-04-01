@@ -19,3 +19,4 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 * [GitHub Feedback](https://github.com/github/feedback/discussions): Public feedback discussions & feature requests
 * [GitHub Community Forum](https://github.community/): Ask questions, get answers, share expertise on all GitHub products
+* _[Read Only_: GitHub Education Discourse Forum](https://education.github.community/) The GitHub Education Forum has moved to GitHub Discussions (this org! 🎉) The old posts are available in read-only for a limited time.
