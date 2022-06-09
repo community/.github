@@ -5,7 +5,7 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 ### Quick Start
 
-* [Welcome Center](https://github.com/orgs/github-community/discussions)
+* [Discussions & Product Feedback](https://github.com/orgs/github-community/discussions)
 * [Join Global Campus](https://education.github.com/benefits?type=student) 
 * [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
 * [Student Developer Pack Application & FAQs](https://github.com/orgs/github-community/discussions/9)
