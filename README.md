@@ -1,2 +1,2 @@
-#master-Luká
+#master-Lukáš
 OS Aplet ❤️
