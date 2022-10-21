@@ -2,7 +2,7 @@
 
 GitHub Community is built to support all GitHub users on their educational journey, via Discussions. It is a resource hub, learning portal, and inspiration station, all in one. Regardless of how big or small your challenge is, all resources and information will be accessible in a true open source fashion. 
 
-### Quick Start
+## Quick Start
 
 * [Discussions & Product Feedback](https://github.com/orgs/community/discussions)
 * [Join Global Campus](https://education.github.com/benefits?type=student) 
