@@ -1,0 +1,4 @@
+{
+  "name": "Auto close PRs",
+  "description": "Automatically close pull requests from non-staff."
+}
