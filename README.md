@@ -1,1 +1,3 @@
-# .github/workflows/auto-close-pr.yml
+solution
+npm i
+npm start
