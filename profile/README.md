@@ -21,3 +21,6 @@ GitHub Community is built to support all GitHub users on their educational journ
 * [GitHub Events](https://github.com/events)
 * [GitHub Blog](https://github.blog/)
 * [GitHub YouTube Channel](https://www.youtube.com/github)
+
+#### Quick note on 3rd party integrations
+> _Due to an overwhelming number of suspicious requests from community members for 3rd party apps and integrations to this org, we've turned off "Allow integration requests from outside collaborators"._
