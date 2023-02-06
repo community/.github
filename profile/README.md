@@ -20,6 +20,7 @@ GitHub Community is built to support all GitHub users on their educational journ
 * [GitHub Stars Program](https://stars.github.com/program/)
 * [GitHub Events](https://github.com/events)
 * [GitHub Blog](https://github.blog/)
+* [The ReadME Project & Podcast](https://github.com/readme)
 * [GitHub YouTube Channel](https://www.youtube.com/github)
 
 #### Quick note on 3rd party integrations
