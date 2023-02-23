@@ -25,3 +25,6 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 #### Quick note on 3rd party integrations
 > _Due to an overwhelming number of suspicious requests from community members for 3rd party apps and integrations to this org, we've turned off "Allow integration requests from outside collaborators"._
+
+#### Quick note on temporary interaction limits
+In an effort to reduce spammy behavior, we are instituting temporary interaction limits to bar accounts less than 24hrs-old from participating in the `github.com/community` Discussions space. This experiment is running from Feb 22, 2023 to March 22, 2023.
