@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png)
+![image](https://user-ydoug33/.github)
 
 GitHub Community is built to support all GitHub users on their educational journey, via Discussions. It is a resource hub, learning portal, and inspiration station, all in one. Regardless of how big or small your challenge is, all resources and information will be accessible in a true open source fashion. 
 
