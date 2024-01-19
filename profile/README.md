@@ -18,7 +18,7 @@ GitHub Community is built to support all GitHub users on their educational journ
 
 * [GitHub Stars Program](https://stars.github.com/program/)
 * [GitHub Campus Experts Program](https://education.github.com/experts)
-* [GitHub Events](https://github.com/events)
+* [GitHub Events](https://www.meetup.com/pro/github-virtual-meetup/)
 * [GitHub Blog](https://github.blog/)
 * [The ReadME Project & Podcast](https://github.com/readme)
 * [GitHub YouTube Channel](https://www.youtube.com/github)
