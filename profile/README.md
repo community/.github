@@ -34,3 +34,4 @@ If your account is less than 24hrs old and you have a question, please try using
 
 If you'd like to learn more about implementing temporary interaction limits in your own orgs and repos, please read up on the official documentation [here](https://docs.github.com/en/communities/moderating-comments-and-conversations/limiting-interactions-in-your-organization).
 
+copyright
