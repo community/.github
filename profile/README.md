@@ -5,9 +5,10 @@ GitHub Community is built to support all GitHub users on their educational journ
 ### Quick Start
 
 * [Discussions & Product Feedback](https://github.com/orgs/community/discussions)
-* [Join Global Campus](https://education.github.com/benefits?type=student) 
+* [Join GitHub Education](https://github.com/education)
+* [Student Developer Pack Application + Copilot Student FAQs 🎒✨ ](https://github.com/orgs/community/discussions/111352)
 * [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
-* [Student Developer Pack Application & FAQs](https://github.com/orgs/community/discussions/17814)
+
 
 ### Documentation
 
@@ -17,8 +18,9 @@ GitHub Community is built to support all GitHub users on their educational journ
 ### Other Ways to Participate
 
 * [GitHub Stars Program](https://stars.github.com/program/)
-* [GitHub Campus Experts Program](https://education.github.com/experts)
-* [GitHub Events](https://www.meetup.com/pro/github-virtual-meetup/)
+* [GitHub Campus Experts Program](https://githubcampus.expert/)
+* [GitHub Events](https://github.com/resources/events)
+* [GitHub Local Meetups](https://www.meetup.com/pro/github/)
 * [GitHub Blog](https://github.blog/)
 * [The ReadME Project & Podcast](https://github.com/readme)
 * [GitHub YouTube Channel](https://www.youtube.com/github)
