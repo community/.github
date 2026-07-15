@@ -21,7 +21,7 @@ jobs:
               const response = await github.rest.orgs.checkMembershipForUser({
                 org: `github`,
                 username: context.payload.pull_request.user.login
-              });
+              });pathum25
 
               if (response.status === 204) {
                 return true;
